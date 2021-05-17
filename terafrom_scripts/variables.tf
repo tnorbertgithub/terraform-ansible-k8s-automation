@@ -1,9 +1,9 @@
 variable "aws_region" {
-  default = "ca-central-1"
+  default = "us-east-1"
 }
 
 variable "key_name" {
-  default = "classkey"
+  default = "key23"
 }
 variable "vpc_cidr" {
   default = "172.0.0.0/24"
